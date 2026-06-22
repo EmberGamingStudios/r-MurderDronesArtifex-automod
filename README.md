@@ -11,4 +11,4 @@ It features the following:
 * Filters potental slurs/political content
 * Filters pornographic domains
 * Filters doxxing (Phone numbers/Email addresses/Card numbers/IP addresses/Street addresses)
-NOTE: This only filters the offending content, not auto-removes. This will add the content to the mod queue for human review before removal.
+<br>NOTE: This only filters the offending content, not auto-removes. This will add the content to the mod queue for human review before removal.
