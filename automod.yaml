@@ -55,7 +55,7 @@ action_reason: "Crosspost from blacklisted subreddit"
 ---
 
 moderators_exempt: false
-# Filter mentions of specific subreddits in titles, bodies, and comments
+# Filter mentions of blacklisted subreddits
 title+body (includes): ["r/AntiOilrose", "r/MurderDronesNSFW", "r/murderdroneswarzone"]
 action: filter
 action_reason: "Mentioned a blacklisted subreddit [{{match}}]"
