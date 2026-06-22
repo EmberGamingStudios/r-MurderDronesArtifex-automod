@@ -1,5 +1,5 @@
 This is a premade automod script that anyone can use for their subreddit with little modification. 
-<br>Due note that this will need to be adapted to your specific use case as this is designed for a Murder Drones community subreddit.
+<br>Due note that this will need to be adapted to your specific use case as this is designed for a Murder Drones community subreddit. This script is not perfect and shouldn't be considered a replacement for a good mod team.
 
 It features the following:
 * Pinned automod comment under posts
