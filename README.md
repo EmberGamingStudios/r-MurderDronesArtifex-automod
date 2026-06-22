@@ -13,4 +13,4 @@ It features the following:
 * Filters doxxing (Phone numbers/Email addresses/Card numbers/IP addresses/Street addresses)
   
   
-NOTE: This only filters the offending content, not auto-removes. This will add the content to the mod queue for human review before removal.
+NOTE: This only filters the offending content, not auto-removes. This will move the content to the mod queue for human review before removal.
