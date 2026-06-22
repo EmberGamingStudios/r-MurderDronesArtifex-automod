@@ -82,7 +82,6 @@ title+body (regex):
     - '(?i)honk(y|ie)'
     - '(?i)injun'
     - '(?i)k(i|y)ke'
-    # catches 'Mickey', like in 'Mickey Mouse'
     - '(?i)mick'
     - '(?i)paki'
     - '(?i)queer'
